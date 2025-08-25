@@ -11,5 +11,5 @@ This repository contains solutions for four programming test problems written in
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/sabarimsd3/Sabari-Programming-Test.git
+ https://github.com/sabarimsd3/Sabari-Programming-Test.git
 
